@@ -1,0 +1,1 @@
+New directory that will contain 0x00-vagrant script, it's an optional task
